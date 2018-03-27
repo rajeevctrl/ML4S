@@ -1,4 +1,4 @@
-package com.ml4s.costfunctions
+package com.ml4s.sklearn.costfunctions
 
 import org.nd4j.linalg.api.ndarray.INDArray
 import com.ml4s.hypothesis.Hypothesis
