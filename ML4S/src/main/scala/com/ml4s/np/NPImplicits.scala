@@ -16,6 +16,8 @@ object NPImplicits {
 //    def -> (y:Int):IndexRange= return new IndexRangeInt(Range(x,y).toArray)
 //  }
   
+  implicit object np extends NPTrait
+  
   /**
    * This class will be used to provide extra methods for all numeric types.
    */

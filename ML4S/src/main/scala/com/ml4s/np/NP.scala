@@ -14,8 +14,9 @@ import com.ml4s.np.temp.NPImplicits._
 
 import org.nd4s.Implicits._
 
+object NP extends NPTrait
 
-object NP {
+trait NPTrait {
   
   ////////////////////// Implicit classes ////////////////////////
   

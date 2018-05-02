@@ -1,6 +1,5 @@
 build.commands=org.scala-ide.sdt.core.scalabuilder
 connection.arguments=
-connection.gradle.distribution=GRADLE_DISTRIBUTION(LOCAL_INSTALLATION(/home/rajeev/Rajeev/gradle-3.2.1))
 connection.java.home=null
 connection.jvm.arguments=
 connection.project.dir=

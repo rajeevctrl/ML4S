@@ -14,7 +14,7 @@ import com.ml4s.np.temp.NPImplicits._
 import org.nd4s.Implicits._
 
 
-object NP {
+final object NP {
   
   ////////////////////// Implicit classes ////////////////////////
   
